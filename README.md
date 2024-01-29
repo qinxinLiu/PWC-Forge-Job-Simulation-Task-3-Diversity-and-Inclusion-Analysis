@@ -121,7 +121,9 @@ o	F20
 ## 4. Power BI Dashboard
 
 <img width="1153" alt="截屏2024-01-29 17 39 38" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-3-Diversity-and-Inclusion-Analysis/assets/67852322/2e3a6e5b-14ce-4034-9a4a-47be111b70d8">
-<img width="1174" alt="截屏2024-01-29 17 40 11" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-3-Diversity-and-Inclusion-Analysis/assets/67852322/305afe3c-ed32-4cfc-beb4-fc666aad3840">
+
 <img width="1159" alt="截屏2024-01-29 17 39 49" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-3-Diversity-and-Inclusion-Analysis/assets/67852322/b69c0af8-bd06-4864-bfd5-2a86b3ee3320">
+
+<img width="1174" alt="截屏2024-01-29 17 40 11" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-3-Diversity-and-Inclusion-Analysis/assets/67852322/305afe3c-ed32-4cfc-beb4-fc666aad3840">
 
 ## 5. Insights
