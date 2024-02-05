@@ -127,3 +127,21 @@ o	F20
 <img width="1174" alt="截屏2024-01-29 17 40 11" src="https://github.com/qinxinLiu/PWC-Forge-Job-Simulation-Task-3-Diversity-and-Inclusion-Analysis/assets/67852322/305afe3c-ed32-4cfc-beb4-fc666aad3840">
 
 ## 5. Insights
+
+- Most of employees resigned after FY 2020 Promotions were  `Junior Officer`. There were more female employees at senior level resigned.
+  
+- Regardless of the length of time they have worked in a previous role, male employees are given preference for promotions at the senior level.
+
+- The average performance rating for men and women is nearly identical, but male employees who receive high ratings frequently leave the company.
+
+- Overall, male employees have a higher job level than female employees.
+
+- The number of executives are highly unbalanced, there were 16 male executives whereas there were only 3 female excutives after FY20 promotion.
+
+- There were fewer female employees in high age group.
+
+## 6. Suggestions
+
+- The company should give more chances to female employee when consider promotion.
+  
+  
